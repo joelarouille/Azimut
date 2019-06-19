@@ -1,0 +1,28 @@
+```yaml
+name: Azimut
+key: azimut
+color: red
+emblem: A_Char_Rocket_02
+info:
+  logo: https://imgur.com/MKrGzPb
+  description: >
+    **Azimut** is a french family of 7 clans created in 2018.
+    We progress together with respect and friendship.
+    Join our family, you'll never regret it ! 
+    - discord: https://discord.gg/e3w4qrj
+clans:
+  - name: Azimut
+    tag: 9RY9L0RL
+  - name: Azumit
+    tag: 9JLVLCQY
+  - name: Izamut
+    tag: 9J0JJU29
+  - name: Izumat
+    tag: 9RVVPRLC
+  - name: Uzamit
+    tag: PG0Q2CC2
+  - name: Uzimat
+    tag: PLUY28C0
+  - name: Tumiza
+    tag: 9JCCYYLP
+```
